@@ -1,6 +1,5 @@
 # Evaluation-of-ChatGPT
 
-<<<<<<< HEAD
 ## Papers
 
 |  ID  |                            Title                             |                   Link                    |   Conference   |   Organization    |
@@ -16,4 +15,4 @@
 
 =======
 ## new
->>>>>>> b911e2012c438cb7bcd48ad44deb40528dc2911f
+
